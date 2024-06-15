@@ -1,0 +1,23 @@
+{
+  "name": "abdul-rehmsn-currency-converter",
+  "version": "1.0.2",
+  "main": "currency_convartor.js",
+  "type": "module",
+  "bin": "currency_convartor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": " ABDUL  REHMAN",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.1"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.23",
+    "undici-types": "^5.26.5"
+  },
+  "description": "ASSIGNMENT  FROM  GOVERNER  HOUSE  ` CURRENCY_CONVARTOR `"
+}
